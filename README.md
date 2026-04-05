@@ -24,12 +24,12 @@ Get the disjoint dataset (MUUFL11x11 folder) from [Google Drive](https://drive.g
 
 ```
 ├── Data
-│ └── <dataset_name> 
+│ └── <dataset_name>
+│    └── ...
 ├── src
 │ └── MMamba_Trento.ipynb  
 │ ...
 ```
-
 
 ## 📄 Citation
 
