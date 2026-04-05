@@ -20,6 +20,17 @@ Get the disjoint dataset (Houston11x11 folder) from [Google Drive](https://drive
 
 Get the disjoint dataset (MUUFL11x11 folder) from [Google Drive](https://drive.google.com/drive/folders/1oTUAE3QiVb80sFNi6rvHukFTfZn-lJR_?usp=sharing)
 
+## 📌 Structure
+
+```
+├── Data
+│ └── <dataset_name> 
+├── src
+│ └── MMamba_Trento.ipynb  
+│ ...
+```
+
+
 ## 📄 Citation
 
 
