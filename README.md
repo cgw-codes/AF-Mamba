@@ -12,3 +12,26 @@
 ```
 pip3 install -r requirements.txt
 ```
+
+## 🌟 DataSets
+Get the disjoint dataset (Trento11x11 folder) from [Google Drive](https://drive.google.com/drive/folders/1HK3eL3loI4Wd-RFr1psLLmVLTVDLctGd?usp=sharing).
+
+Get the disjoint dataset (Houston11x11 folder) from [Google Drive](https://drive.google.com/drive/folders/1OnLkDpqMtNJy0DRS6YsKKbSqQiiUSgro?usp=sharing)
+
+Get the disjoint dataset (MUUFL11x11 folder) from [Google Drive](https://drive.google.com/drive/folders/1oTUAE3QiVb80sFNi6rvHukFTfZn-lJR_?usp=sharing)
+
+## 📄 Citation
+
+
+```
+@inproceedings{2026afmamba,
+  title={AFMamba: Adaptive fusion network for hyperspectral and LiDAR data collaborative classification based on Mamba},
+  author={Weng, Q and Chen, G W and Pan, Z Y and Lin, J W and Zheng, X T},
+  journal={National Remote Sensing Bulletin},
+  volume={30},
+  number={2},
+  pages={296--310},
+  year={2026},
+  doi={10.11834/jrs.20254539}
+}
+```
